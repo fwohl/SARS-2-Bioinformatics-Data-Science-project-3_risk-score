@@ -1,0 +1,92 @@
+seq29	
+seq27	
+seq3	
+seq41	
+seq38	del:2663:2 del:12502:2 del:13469:2 C15559CT del:24692:2 del:29118:1
+seq44	
+seq42	
+seq36	
+seq8	
+seq9	del:26160:8 del:27386:1
+seq19	
+seq23	
+seq12	del:26160:8 del:27386:1
+seq31	
+seq43	
+seq26	
+seq28	
+seq30	
+seq13	
+seq2	
+seq7	
+seq32	
+seq18	
+seq46	
+seq24	del:26160:8 del:27386:1
+seq21	
+seq45	
+seq39	
+seq5	
+seq10	
+seq6	
+seq35	
+seq34	
+seq4	
+seq25	
+seq22	
+seq1	
+seq33	
+seq17	
+seq20	
+seq11	del:26160:8 del:27386:1
+seq15	
+seq16	
+seq40	
+seq37	
+seq14	del:26160:8 del:27386:1
+seq29	
+seq27	
+seq3	
+seq41	
+seq38	del:2663:2 del:12502:2 del:13469:2 C15559CT del:24692:2 del:29118:1
+seq44	
+seq42	
+seq36	
+seq8	
+seq9	del:26160:8 del:27386:1
+seq19	
+seq23	
+seq12	del:26160:8 del:27386:1
+seq31	
+seq43	
+seq26	
+seq28	
+seq30	
+seq13	
+seq2	
+seq7	
+seq32	
+seq18	
+seq46	
+seq24	del:26160:8 del:27386:1
+seq21	
+seq45	
+seq39	
+seq5	
+seq10	
+seq6	
+seq35	
+seq34	
+seq4	
+seq25	
+seq22	
+seq1	
+seq33	
+seq17	
+seq20	
+seq11	del:26160:8 del:27386:1
+seq15	
+seq16	
+seq40	
+seq37	
+seq14	del:26160:8 del:27386:1
